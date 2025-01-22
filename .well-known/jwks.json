@@ -3,10 +3,10 @@
     {
       "kty": "RSA",
       "e": "AQAB",
-      "n": "uEDZwLi-H0q4w-qOVpLHqcp7TEBY4Y4e8oE3KgSRMBIYx5HsxjgaQsp0KivAmk6OxvPZF_UjrwXm1iGAME4Eg2QrIrG-D-QyimAU_k1Hdg9pxLuMuPjrmNO9O7QvcXIf14GIXeINeRahXE3jgtEknbz_c0_lBQCQWtPmusPmFOz9s8pcmHjV94O2gu-OTz1ePrggMUpvFp5gad6WxIBvPffO8Lsa5p6iKEpLT-j_pIjRc3p8THpDqXtnfuBSFdVzRHXw7WKKRnmT6YDq9Qyxy9_PTJD2lIbijvClv-8j37c7s--WqebjSmlyMSZdNzAussx6JLE4ICvReTgRyJCt5w",
-      "alg": "RS256",
+      "n": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1NL0WNGMTu+JCxEASjglGVnqncEaBoERAHOxd/pAn1m0HP/3PhIdPz/6BLA36LXpVAP1Gtcvo1K+O/17AAfBNefN2OkJqOaFFS8aSw4aOYfm9DAXK+JU0dwi4pKxWbQ4mk0+yaj/2yD2AoAhvlRlNWBDvLKpB4YEVjSAgbZq83vpnPrP9kYy0WyuC/rzZIvj0DF+u2s3yK50G+bBRyD039SRM7y+qPC2xW52fM0fR4EZUhQ3jIn0zVI9jN+6RGhBraa11QQ85nyuw/iC+f0PV6Oamjp2TqYlBWWqN9F8ZGS59nLmmLbcpUaiw6y9iKEV1Ga7sQexPyBlY25psDDSVwIDAQAB",
+      "alg": "RS384",
       "use": "sig",
-      "kid": "1737401327"
+      "kid": "1737577771"
     }
   ]
 }
